@@ -34,11 +34,11 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 ## CSS File
 
-[Styles](https://github.com/jzamora5/holberton-smiling-school/blob/master/styles.css)
+[Styles](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/styles.css)
 
 ## Homepage
 
-[Homepage Header/Hero Section](https://github.com/jzamora5/holberton-smiling-school/blob/master/0-homepage.html)
+[Homepage Header/Hero Section](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-homepage.html)
 
 [Carousel of quotes](https://github.com/jzamora5/holberton-smiling-school/blob/master/1-homepage.html)
 
@@ -52,7 +52,7 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 ## Pricing
 
-[Pricing Header](https://github.com/jzamora5/holberton-smiling-school/blob/master/0-pricing.html)
+[Pricing Header](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-pricing.html)
 
 [Prices Grid](https://github.com/jzamora5/holberton-smiling-school/blob/master/1-pricing.html)
 
@@ -64,7 +64,7 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 ## Courses
 
-[Courses Header](https://github.com/jzamora5/holberton-smiling-school/blob/master/0-courses.html)
+[Courses Header](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-courses.html)
 
 [Search Filters](https://github.com/jzamora5/holberton-smiling-school/blob/master/1-courses.html)
 
