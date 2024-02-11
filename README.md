@@ -40,37 +40,37 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 [Homepage Header/Hero Section](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-homepage.html)
 
-[Carousel of quotes](https://github.com/jzamora5/holberton-smiling-school/blob/master/1-homepage.html)
+[Carousel of quotes](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/1-homepage.html)
 
-[Popular Videos](https://github.com/jzamora5/holberton-smiling-school/blob/master/2-homepage.html)
+[Popular Videos](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/2-homepage.html)
 
-[Row of smiles](https://github.com/jzamora5/holberton-smiling-school/blob/master/3-homepage.html)
+[Row of smiles](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-homepage.html)
 
-[Latest Videos](https://github.com/jzamora5/holberton-smiling-school/blob/master/4-homepage.html)
+[Latest Videos](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/homepage.html)
 
-[Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/homepage.html)
+[Footer](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/homepage.html)
 
 ## Pricing
 
 [Pricing Header](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-pricing.html)
 
-[Prices Grid](https://github.com/jzamora5/holberton-smiling-school/blob/master/1-pricing.html)
+[Prices Grid](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-pricing.html)
 
-[Quotes Section](https://github.com/jzamora5/holberton-smiling-school/blob/master/2-pricing.html)
+[Quotes Section](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-pricing.html)
 
-[FAQ](https://github.com/jzamora5/holberton-smiling-school/blob/master/3-pricing.html)
+[FAQ](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-pricing.html)
 
-[Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/pricing.html)
+[Footer](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/pricing.html)
 
 ## Courses
 
 [Courses Header](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-courses.html)
 
-[Search Filters](https://github.com/jzamora5/holberton-smiling-school/blob/master/1-courses.html)
+[Search Filters](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/courses.html)
 
-[List of Results](https://github.com/jzamora5/holberton-smiling-school/blob/master/2-courses.html)
+[List of Results](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/courses.html)
 
-[Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/courses.html)
+[Footer](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/courses.html)
 
 # Author:
 
