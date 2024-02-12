@@ -1,14 +1,32 @@
-# Holberton Smiling School (Bootstrap Project)
+# Holberton Smiling School
 
+## 📝 Description
+This project consists of building a web application in JavaScript, using HTML, CSS, Bootstrap and JQuery. It aims to develop skills in responsive and interactive website design, implementing dynamic features and integrating Ajax calls.
+
+## 📚 Resources
+- [Documentation Bootstrap](https://getbootstrap.com/)
+- [Guide JQuery](https://jquery.com/)
+- [Tutoriels JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+- [Cours HTML/CSS](https://www.w3schools.com/)
+- [API SmileSchool Quotes](https://smileschool-api.hbtn.info/quotes)
+
+
+## Figma Templates
 These group of web pages were coded from scratch with the help of the Boostrap Framework and based on some design models given on Figma.
 
-[Figma Homepage](https://www.figma.com/file/QYQqMYbdpAHL5xTclwJKSI/Homepage)
+- [Figma Homepage](https://www.figma.com/file/QYQqMYbdpAHL5xTclwJKSI/Homepage)
 
-[Figma Pricing](https://www.figma.com/file/KLAI53jdYpfFNEy0O79ymB/Pricing)
+- [Figma Pricing](https://www.figma.com/file/KLAI53jdYpfFNEy0O79ymB/Pricing)
 
-[Figma Courses](https://www.figma.com/file/ivg3abH1HLmMayBgjGg1Qf/Courses)
+- [Figma Courses](https://www.figma.com/file/ivg3abH1HLmMayBgjGg1Qf/Courses)
 
 The designs were planned for Desktop, Tablet, and Mobile.
+
+## API Smile Schools
+- [API SmileSchool Quotes](https://smileschool-api.hbtn.info/quotes)
+- [API SmileSchool Popular](https://smileschool-api.hbtn.info/popular-tutorials)
+- [API SmileSchool Latest Videos](https://smileschool-api.hbtn.info/latest-videos)
+- [API SmileSchool Courses](https://smileschool-api.hbtn.info/courses)
 
 # Homepage
 
@@ -28,50 +46,28 @@ The designs were planned for Desktop, Tablet, and Mobile.
 | -------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
 | ![Desktop](https://i.ibb.co/y51S3HX/Courses-Desktop.png) | ![Tablet](https://i.ibb.co/28qK1g0/Courses-Tablet.png) | ![Mobile](https://i.ibb.co/f8zNgkx/Courses-Mobile.png) |
 
-# Sections
+## 🛠️ Technologies and Tools Used
 
-The Holberton Smiling School web pages were developed by sections using the Bootstrap Front-End framework and CSS styles.
+- **HTML/CSS**: Basic structure and style of the site.
+- **Bootstrap**: CSS framework for responsive design.
+- **JavaScript**: Scripting language for interactive features.
+- **JQuery**: JavaScript library to simplify client-side scripting.
 
-## CSS File
+## ✨ Main Features
 
-[Styles](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/styles.css)
+1. **Dynamic carousel**: Interactive display of content.
+2. **Loading content via API**: Using SmileSchool API for dynamic content.
+3. **Responsive Design**: Adaptation of the site for tablets and mobiles.
 
-## Homepage
+## 📝 List of Tasks
 
-[Homepage Header/Hero Section](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-homepage.html)
-
-[Carousel of quotes](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/1-homepage.html)
-
-[Popular Videos](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/2-homepage.html)
-
-[Row of smiles](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-homepage.html)
-
-[Latest Videos](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/homepage.html)
-
-[Footer](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/homepage.html)
-
-## Pricing
-
-[Pricing Header](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-pricing.html)
-
-[Prices Grid](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-pricing.html)
-
-[Quotes Section](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-pricing.html)
-
-[FAQ](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-pricing.html)
-
-[Footer](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/pricing.html)
-
-## Courses
-
-[Courses Header](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/0-courses.html)
-
-[Search Filters](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/courses.html)
-
-[List of Results](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/courses.html)
-
-[Footer](https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/blob/main/courses.html)
+0. **Fork me if you can!**: Fork the basic code and customize it.
+1. **Homepage - quotes**: Dynamically load quotes.
+2. **Homepage - popular tutorials**: Display popular tutorials.
+3. **Homepage - latest videos**: Integrate the latest videos.
+4. **Pricing - quotes**: Setting up the pricing section with quotes.
+5. **Courses**: Dynamic display of available courses.
+6. **JSON to XML**: Convert Ajax JSON calls to XML.
 
 # Author:
-
 - **LinkedIn Profile**: [Mathieu Morel](https://www.linkedin.com/in/mathieu-morel-9ab457261/)
