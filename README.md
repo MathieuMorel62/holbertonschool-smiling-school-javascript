@@ -3,7 +3,7 @@
 <img width="1630" alt="Capture d’écran 2024-02-12 à 02 14 58" src="https://github.com/MathieuMorel62/holbertonschool-smiling-school-javascript/assets/113856302/4f0af760-e12f-4950-aed2-70ce7f204cad">
 
 ## 📝 Description
-This project consists of building a web application in JavaScript, using HTML, CSS, Bootstrap and JQuery. It aims to develop skills in responsive and interactive website design, implementing dynamic features and integrating Ajax calls. You can see the final result [**HERE**](https://mathieumorel62.github.io/holbertonschool-smiling-school-javascript/xml-pricing.html)
+This project consists of building a web application in JavaScript, using HTML, CSS, Bootstrap and JQuery. It aims to develop skills in responsive and interactive website design, implementing dynamic features and integrating Ajax calls. You can see the final result [**HERE**](https://mathieumorel62.github.io/holbertonschool-smiling-school-javascript/xml-homepage.html)
 
 ## 📚 Resources
 - [Documentation Bootstrap](https://getbootstrap.com/)
