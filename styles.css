@@ -678,7 +678,7 @@ h3 span {
 .section-filters input:focus {
   box-shadow: none !important;
   background: transparent;
-  font-size: 2.3rem;
+  font-size: 1.4rem;
 }
 
 .section-filters input::placeholder {
